@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sehandu Dinomin Kumanayake</h1>
 <h3 align="center">A passionate Web and App Dev from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [mangalaporuwa.com](mangalaporuwa.com)
+- 🔭 I’m currently working on [mangalaporuwa.com]([mangalaporuwa.com](https://mangalaporuwa.com/))
 
 - 📫 How to reach me **sdkumanayaka@gmail.com**
 
